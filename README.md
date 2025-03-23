@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJiYTlkODczZGRiYzliMWQ5ZDM0Y2Q0YTYxMzcwNDFlYTMzNjk0MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400">
+  <img src="/assets/hero1.png" width="400">
   
   [![GitHub last commit](https://img.shields.io/github/last-commit/MohammedJabir18/HackerEarth-Solutions?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MohammedJabir18/HackerEarth-Solutions)
   [![GitHub repo size](https://img.shields.io/github/repo-size/MohammedJabir18/HackerEarth-Solutions?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MohammedJabir18/HackerEarth-Solutions)
@@ -21,7 +21,7 @@ Welcome to my comprehensive collection of HackerEarth problem solutions! This re
 This repository serves as both a personal reference and a learning resource for others interested in competitive programming and technical interview preparation.
 
 <div align="center">
-  <img src="/assets/hero1.png" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJiYTlkODczZGRiYzliMWQ5ZDM0Y2Q0YTYxMzcwNDFlYTMzNjk0MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400">
 </div>
 
 ## 🔍 Repository Structure
