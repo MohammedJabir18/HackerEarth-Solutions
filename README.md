@@ -119,7 +119,7 @@ Problems involving:
 
 | Category | Easy | Medium | Hard | Total |
 |----------|------|--------|------|-------|
-| Basic Programming | 0 | 0 | 0 | 0 |
+| Basic Programming | 2 | 0 | 0 | 0 |
 | Data Structures | 0 | 0 | 0 | 0 |
 | Algorithms | 0 | 0 | 0 | 0 |
 | Math | 0 | 0 | 0 | 0 |
