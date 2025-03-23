@@ -4,9 +4,10 @@
   
   <img src="/assets/hero1.png" width="400">
   
-  [![GitHub last commit](https://img.shields.io/github/last-commit/MohammedJabir18/HackerEarth-Solutions?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MohammedJabir18/HackerEarth-Solutions)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/MohammedJabir18/HackerEarth-Solutions?style=for-the-badge)
   [![GitHub repo size](https://img.shields.io/github/repo-size/MohammedJabir18/HackerEarth-Solutions?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MohammedJabir18/HackerEarth-Solutions)
   [![GitHub stars](https://img.shields.io/github/stars/MohammedJabir18/HackerEarth-Solutions?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MohammedJabir18/HackerEarth-Solutions/stargazers)
+  ![GitHub forks](https://img.shields.io/github/forks/MohammedJabir18/HackerEarth-Solutions?style=for-the-badge)
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUzODU5ZGJiYzczMjAxNmE0NjQxYzI1NmU0NGE4M2NlZWM1M2VmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMt9638dO8dftAjtco/giphy.gif" width="100">
 
@@ -112,6 +113,21 @@ Problems involving:
 - Feature Engineering
 - Model Evaluation
 
+## 📊 Statistics
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtzYmZyaGxoaDVsODdudGZreTE5eGp0YzYzdzNqZGsycGQ1NnE5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Statistics Animation" width="350px">
+</div>
+
+| Category | Easy | Medium | Hard | Total |
+|----------|------|--------|------|-------|
+| Basic Programming | 0 | 0 | 0 | 0 |
+| Data Structures | 0 | 0 | 0 | 0 |
+| Algorithms | 0 | 0 | 0 | 0 |
+| Math | 0 | 0 | 0 | 0 |
+| Machine Learning | - | - | - | 0 |
+| **Total** | **0** | **0** | **0** | **0** |
+
 ## 🎯 Features of This Repository
 
 - 📝 Clear, well-commented Python solutions
@@ -152,6 +168,7 @@ This repository reflects my commitment to continuous learning and improvement in
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jabir-portfolio.vercel.app)
+  <a href="https://www.hackerearth.com/@jabirahmedz111/"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"></a>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed--jabir)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedJabir18)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohammedjabir__)
@@ -160,16 +177,30 @@ This repository reflects my commitment to continuous learning and improvement in
   
 </div>
 
+## 📝 Contributing
+
+While this repository primarily contains my personal solutions, contributions are welcome if you have:
+- More efficient approaches
+- Alternative solutions
+- Corrections to existing solutions
+
+Please feel free to open an issue or submit a pull request.
+
 ## ⚖️ License
 
 This repository is licensed under the MIT License - see the LICENSE file for details.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+## ⭐ Support
+
+If you find this repository helpful, please consider giving it a star! Your support motivates me to add more solutions and maintain the repository.
+
 <div align="center">
-  <p>⭐ Star this repository if you find it useful! ⭐</p>
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZlNTY0NzQ3MTJkZWU5ZTI0OGIyMDg3ODg1NzU0MTczOTcxMzgzNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" width="400">
   
+ 
   <p>Made with 🔥 by Mohammed Jabir</p>
 </div>
+
