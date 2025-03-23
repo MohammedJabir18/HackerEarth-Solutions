@@ -115,9 +115,7 @@ Problems involving:
 
 ## 📊 Statistics
 
-<div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtzYmZyaGxoaDVsODdudGZreTE5eGp0YzYzdzNqZGsycGQ1NnE5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Statistics Animation" width="350px">
-</div>
 
 | Category | Easy | Medium | Hard | Total |
 |----------|------|--------|------|-------|
